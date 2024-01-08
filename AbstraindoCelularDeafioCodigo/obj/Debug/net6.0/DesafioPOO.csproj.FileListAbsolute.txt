@@ -1,0 +1,45 @@
+E:\projetosBootCampCs\deafio pronto\bin\Debug\net6.0\DesafioPOO.exe
+E:\projetosBootCampCs\deafio pronto\bin\Debug\net6.0\DesafioPOO.deps.json
+E:\projetosBootCampCs\deafio pronto\bin\Debug\net6.0\DesafioPOO.runtimeconfig.json
+E:\projetosBootCampCs\deafio pronto\bin\Debug\net6.0\DesafioPOO.dll
+E:\projetosBootCampCs\deafio pronto\bin\Debug\net6.0\DesafioPOO.pdb
+E:\projetosBootCampCs\deafio pronto\obj\Debug\net6.0\DesafioPOO.csproj.AssemblyReference.cache
+E:\projetosBootCampCs\deafio pronto\obj\Debug\net6.0\DesafioPOO.GeneratedMSBuildEditorConfig.editorconfig
+E:\projetosBootCampCs\deafio pronto\obj\Debug\net6.0\DesafioPOO.AssemblyInfoInputs.cache
+E:\projetosBootCampCs\deafio pronto\obj\Debug\net6.0\DesafioPOO.AssemblyInfo.cs
+E:\projetosBootCampCs\deafio pronto\obj\Debug\net6.0\DesafioPOO.csproj.CoreCompileInputs.cache
+E:\projetosBootCampCs\deafio pronto\obj\Debug\net6.0\DesafioPOO.dll
+E:\projetosBootCampCs\deafio pronto\obj\Debug\net6.0\refint\DesafioPOO.dll
+E:\projetosBootCampCs\deafio pronto\obj\Debug\net6.0\DesafioPOO.pdb
+E:\projetosBootCampCs\deafio pronto\obj\Debug\net6.0\DesafioPOO.genruntimeconfig.cache
+E:\projetosBootCampCs\deafio pronto\obj\Debug\net6.0\ref\DesafioPOO.dll
+E:\projetosBootCampCs\trilha-net-poo-desafio\bin\Debug\net6.0\DesafioPOO.exe
+E:\projetosBootCampCs\trilha-net-poo-desafio\bin\Debug\net6.0\DesafioPOO.deps.json
+E:\projetosBootCampCs\trilha-net-poo-desafio\bin\Debug\net6.0\DesafioPOO.runtimeconfig.json
+E:\projetosBootCampCs\trilha-net-poo-desafio\bin\Debug\net6.0\DesafioPOO.dll
+E:\projetosBootCampCs\trilha-net-poo-desafio\bin\Debug\net6.0\DesafioPOO.pdb
+E:\projetosBootCampCs\trilha-net-poo-desafio\obj\Debug\net6.0\DesafioPOO.csproj.AssemblyReference.cache
+E:\projetosBootCampCs\trilha-net-poo-desafio\obj\Debug\net6.0\DesafioPOO.GeneratedMSBuildEditorConfig.editorconfig
+E:\projetosBootCampCs\trilha-net-poo-desafio\obj\Debug\net6.0\DesafioPOO.AssemblyInfoInputs.cache
+E:\projetosBootCampCs\trilha-net-poo-desafio\obj\Debug\net6.0\DesafioPOO.AssemblyInfo.cs
+E:\projetosBootCampCs\trilha-net-poo-desafio\obj\Debug\net6.0\DesafioPOO.csproj.CoreCompileInputs.cache
+E:\projetosBootCampCs\trilha-net-poo-desafio\obj\Debug\net6.0\DesafioPOO.dll
+E:\projetosBootCampCs\trilha-net-poo-desafio\obj\Debug\net6.0\refint\DesafioPOO.dll
+E:\projetosBootCampCs\trilha-net-poo-desafio\obj\Debug\net6.0\DesafioPOO.pdb
+E:\projetosBootCampCs\trilha-net-poo-desafio\obj\Debug\net6.0\DesafioPOO.genruntimeconfig.cache
+E:\projetosBootCampCs\trilha-net-poo-desafio\obj\Debug\net6.0\ref\DesafioPOO.dll
+C:\Users\ISAAC CHACK\Downloads\trilha-net-poo-desafio\bin\Debug\net6.0\DesafioPOO.exe
+C:\Users\ISAAC CHACK\Downloads\trilha-net-poo-desafio\bin\Debug\net6.0\DesafioPOO.deps.json
+C:\Users\ISAAC CHACK\Downloads\trilha-net-poo-desafio\bin\Debug\net6.0\DesafioPOO.runtimeconfig.json
+C:\Users\ISAAC CHACK\Downloads\trilha-net-poo-desafio\bin\Debug\net6.0\DesafioPOO.dll
+C:\Users\ISAAC CHACK\Downloads\trilha-net-poo-desafio\bin\Debug\net6.0\DesafioPOO.pdb
+C:\Users\ISAAC CHACK\Downloads\trilha-net-poo-desafio\obj\Debug\net6.0\DesafioPOO.csproj.AssemblyReference.cache
+C:\Users\ISAAC CHACK\Downloads\trilha-net-poo-desafio\obj\Debug\net6.0\DesafioPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ISAAC CHACK\Downloads\trilha-net-poo-desafio\obj\Debug\net6.0\DesafioPOO.AssemblyInfoInputs.cache
+C:\Users\ISAAC CHACK\Downloads\trilha-net-poo-desafio\obj\Debug\net6.0\DesafioPOO.AssemblyInfo.cs
+C:\Users\ISAAC CHACK\Downloads\trilha-net-poo-desafio\obj\Debug\net6.0\DesafioPOO.csproj.CoreCompileInputs.cache
+C:\Users\ISAAC CHACK\Downloads\trilha-net-poo-desafio\obj\Debug\net6.0\DesafioPOO.dll
+C:\Users\ISAAC CHACK\Downloads\trilha-net-poo-desafio\obj\Debug\net6.0\refint\DesafioPOO.dll
+C:\Users\ISAAC CHACK\Downloads\trilha-net-poo-desafio\obj\Debug\net6.0\DesafioPOO.pdb
+C:\Users\ISAAC CHACK\Downloads\trilha-net-poo-desafio\obj\Debug\net6.0\DesafioPOO.genruntimeconfig.cache
+C:\Users\ISAAC CHACK\Downloads\trilha-net-poo-desafio\obj\Debug\net6.0\ref\DesafioPOO.dll
